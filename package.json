@@ -1,0 +1,17 @@
+{
+    "name": "teste-tecnico-ticto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "cy:run": "cypress run",
+        "cy:open": "cypress open",
+        "cy:clear": "cypress cache clear"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^10.9.0"
+    }
+}

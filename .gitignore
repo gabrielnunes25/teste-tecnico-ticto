@@ -1,3 +1,7 @@
+/quick-start-cypress-main
+cypress/e2e/1-getting-started
+cypress/e2e/2-advanced-examples
+
 # Logs
 logs
 *.log
@@ -38,7 +42,7 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+/node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
