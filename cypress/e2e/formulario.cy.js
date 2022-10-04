@@ -28,7 +28,7 @@ describe('Formulário Ticto', () => {
         Formulario.editarUsuario(dados.email, 'ivalido', 'nao@existe');
     });
 
-    it.only('Editar dados inválidos', () => {
+    it('Editar dados inválidos', () => {
         let nomeEditado = dados.nome + ' editado';
         let emailEditado = 'email@editado';
 

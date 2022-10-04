@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="51.8980" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-10-04T19:57:58" tests="0" file="cypress\e2e\formulario.cy.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Formulário Ticto" timestamp="2022-10-04T19:57:58" tests="6" time="51.8980" failures="0">
+    <testcase name="Formulário Ticto Confirmar carregamento da página" time="14.7750" classname="Confirmar carregamento da página">
+    </testcase>
+    <testcase name="Formulário Ticto Preenchendo dados inválidos" time="7.3580" classname="Preenchendo dados inválidos">
+    </testcase>
+    <testcase name="Formulário Ticto Preenchendo dados válidos" time="7.8170" classname="Preenchendo dados válidos">
+    </testcase>
+    <testcase name="Formulário Ticto Editar dados inválidos" time="6.7500" classname="Editar dados inválidos">
+    </testcase>
+    <testcase name="Formulário Ticto Editar dados inválidos" time="9.9970" classname="Editar dados inválidos">
+    </testcase>
+    <testcase name="Formulário Ticto Escluir usuário" time="5.2010" classname="Escluir usuário">
+    </testcase>
+  </testsuite>
+</testsuites>
